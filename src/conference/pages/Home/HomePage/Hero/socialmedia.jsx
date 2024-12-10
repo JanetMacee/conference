@@ -3,7 +3,7 @@ const SocialMediaLinks = () => {
     <>
       <div className="social-media-links space-x-5">
         <a
-          href="#"
+          href="https://twitter.com/KhalidMacee61793"
           className="social-media-link"
           target="_blank"
           rel="noopener noreferrer"
@@ -11,15 +11,7 @@ const SocialMediaLinks = () => {
           Twitter
         </a>
         <a
-          href="#"
-          className="social-media-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Facebook
-        </a>
-        <a
-          href="#"
+          href="https://gh.linkedin.com/in/maceekhalid"
           className="social-media-link"
           target="_blank"
           rel="noopener noreferrer"
@@ -27,12 +19,20 @@ const SocialMediaLinks = () => {
           Linkedin
         </a>
         <a
-          href="#"
+          href="https://whatsapp.com/dl/"
           className="social-media-link"
           target="_blank"
           rel="noopener noreferrer"
         >
-          whatsapp
+          WhatsApp
+        </a>
+        <a
+          href="https://www.instagram.com/macee_khalid/"
+          className="social-media-link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram
         </a>
       </div>
     </>
